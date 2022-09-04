@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vl4diC0de
+- 👀 I’m interested in Python, C/C++, Security
+- 🌱 I’m currently learning Rust
